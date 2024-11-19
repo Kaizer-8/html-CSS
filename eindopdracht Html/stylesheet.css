@@ -100,8 +100,8 @@ form{
     font-size: larger;
 }
 .photos{
-    height: 300px;
-    width: 308px;
+    height: auto;
+    width: 15vw;
 }
 
 
